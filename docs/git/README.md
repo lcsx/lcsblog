@@ -132,4 +132,7 @@ git reset HEAD
 
 
 远程master增加文件，本地lcsdev pull也是看不到的。
+
+
+本地lcsdev 分支，运行git push 默认对送到远程lcsdev分支
 ```
